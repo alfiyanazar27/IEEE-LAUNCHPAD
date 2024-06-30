@@ -1,22 +1,17 @@
-# Nakhate Harika
+# Alfiya N
 
 ### About Me
 
 > - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
+> - 🎓 Graduated Btech from VKCET.
 > - Fun fact about me: I can speak six languages!🌍🗣️
 
 
 
 ## Portfolio Highlights
 
-### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
 
 #### Leadership and Influence:
 
@@ -41,7 +36,9 @@
 - Css
 - Js
 - Python
-- 
+- java
+- dbms
+- networking
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
